@@ -11,7 +11,7 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         TextView tv = (TextView) findViewById(R.id.hello);
-        tv.setText("This is the Kanti commit!");
+        tv.setText("This is the Kanti + Danny commit!");
 
     }
 }
